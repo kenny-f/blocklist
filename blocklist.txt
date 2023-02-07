@@ -1,1 +1,1 @@
-||g.doubleclick.net
+.;querytype=HTTPS
